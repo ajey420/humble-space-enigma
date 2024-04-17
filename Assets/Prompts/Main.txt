@@ -1,0 +1,12 @@
+Answer the question as precise as possible using the provided context. If the answer is
+not contained in the context, say "answer not available in context"
+
+Try to answer in Polish
+
+Context: 
+{context}?
+
+Question: 
+{question}
+
+Answer:

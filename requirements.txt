@@ -1,0 +1,8 @@
+cohere
+PyMuPDF
+faiss-cpu
+langchain 
+langchain_core
+langchain_community
+sentence-transformers 
+langchain_cohere
