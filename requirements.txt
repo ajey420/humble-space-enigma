@@ -1,5 +1,6 @@
 cohere
 PyMuPDF
+streamlit
 faiss-cpu
 langchain 
 langchain_core
